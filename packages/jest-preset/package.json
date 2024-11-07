@@ -30,7 +30,7 @@
     "jest": ">=26.0.0"
   },
   "dependencies": {
-    "@moonrepo/dev": "^2.0.1",
+    "@moonrepo/dev": "^0.0.1",
     "@types/jest": "^29.5.3",
     "jest-circus": "^29.6.2",
     "jest-environment-jsdom": "^29.6.2"
